@@ -4,9 +4,9 @@
 #### 4
 #### 5 Myat was here!
 #### 6
-#### 7
+#### 7 I live in Brooklyn, NY
 #### 8
-#### 9 Github is really good
+#### 9 Github is really awesome.
 #### 10
 #### 11
 #### 12
