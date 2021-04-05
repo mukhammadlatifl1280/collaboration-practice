@@ -1,6 +1,6 @@
-#### 1
+#### 1 Alice was here!
 #### 2
-#### Bob was here!
+#### 3 Bob was here!
 #### 4
 #### 5
 #### 6
